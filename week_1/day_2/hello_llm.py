@@ -15,7 +15,7 @@ client = Groq(api_key = my_api_key)
 model = "llama-3.3-70b-versatile"
 
 role = "user"
-prompt = "how can is Gukesh?"
+prompt = "who is virat kohli?"
 
 message = {
     "role": role,
