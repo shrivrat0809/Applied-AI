@@ -41,3 +41,4 @@ print(response.choices[0].message.content)
 #######################
 # system => assign post to llm i.e, you are junior dev, senior dev
 # temperature => give diffrent personality to llm, dont be creative(0) or use creativity(2), range is [0,2]
+#######################
