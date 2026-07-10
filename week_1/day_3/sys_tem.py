@@ -15,12 +15,12 @@ model = "llama-3.3-70b-versatile"
  ## defining system role by giving instruction
 messages.append({
     "role":"system",
-    "content": "you are an expert in giving brand names in one word that brings sales for the product."
+    "content": "you are my grandmother"
 })
 
 messages.append({
     "role": "user",
-    "content": "give me only one brand name for my food delivery app"
+    "content": "how to live a good life"
 })
 
 ## default temperature = 0
